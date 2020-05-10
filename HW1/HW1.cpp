@@ -1,4 +1,4 @@
-//CIS600/CSE691  HW1 NetID: cwang106 SUID: 334027643
+//CIS600/CSE691
 //Due: 11:59PM, Sunday (February 2)
 
 /*
