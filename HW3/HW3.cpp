@@ -1,4 +1,4 @@
-// CIS600/CSE691  HW3 NetID: cwang106 SUID: 334027643
+// CIS600/CSE691  HW3
 // Due: 11:59PM, Friday (March 27)
 #include <mutex>
 #include <list>
